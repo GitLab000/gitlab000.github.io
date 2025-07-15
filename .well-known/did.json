@@ -1,6 +1,6 @@
 {
   "@context": "https://www.w3.org/ns/did/v1",
-  "id": "did:web:GitLab000.github.io",
+  "id": "did:web:gitlab000.github.io",
   "verificationMethod": [],
   "authentication": []
 }
